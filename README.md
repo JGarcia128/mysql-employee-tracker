@@ -1,6 +1,6 @@
 # 12 SQL: Employee Tracker
 
-## Your Task
+## My Task
 
 creating an interface that allow non-developers to easily view and interact with information stored in databases.Building a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL.
 I will be creating a walkthrough video that demonstrates the functionality and all of the following acceptance criteria being met.
@@ -29,3 +29,5 @@ WHEN I choose to add a role
 THEN I am prompted to enter the name, salary, and department for the role and that role is added to the database
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
+
+https://drive.google.com/file/d/1C4ajKPCv_ckFgyvtugobuyGRfAadjGaJ/view
