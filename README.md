@@ -36,6 +36,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 This is the video of the application in works:
 https://drive.google.com/file/d/1elQPpKZPuFt-JrjQFKc8DRx186x4VZrW/view
 
-
+GitHub repository URL:
+https://jgarcia128.github.io/mysql-employee-tracker/
 
 
